@@ -79,15 +79,9 @@ POC/
 ## Herramientas Integradas
 
 - **Volatility 3**: Análisis de memoria volátil
-- **DumpIt**: Adquisición de memoria RAM
 - **TSK (The Sleuth Kit)**: Análisis forense de disco
-- **Calamity**: Recopilación de información del sistema
 - **Autopsy**: Análisis forense profundo (fase manual)
 
 ## Licencia
 
-Proyecto académico - Universidad - TITA I
-
-## Autor
-
-Daniel - 8vo Semestre
+Proyecto académico - UDLA - TITA I
